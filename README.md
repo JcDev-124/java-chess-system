@@ -25,13 +25,13 @@ Este projeto é uma aplicação de console que simula uma partida completa de xa
    ```
 
 
-2. Navegue até o diretório do projeto: ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+2. Navegue até o diretório do projeto: 
    ```bash
    cd java-chess-system
    ```
 
 
-3. Compile o projeto: ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+3. Compile o projeto: 
    ```bash
    javac -d bin src/**/*.java
    ```
@@ -47,7 +47,7 @@ Este projeto é uma aplicação de console que simula uma partida completa de xa
 
 - O jogo é jogado no console.
 - Insira as coordenadas de origem e destino das peças no formato 'a1', 'b2', etc.
-- Siga as instruções exibidas no console para prosseguir com o jogo. ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+- Siga as instruções exibidas no console para prosseguir com o jogo. 
 
 ### 📄 Licença
 
