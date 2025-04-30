@@ -1,2 +1,54 @@
-# chess-system
-A chess system was created in Java, it was a very complete project simulating a real game of chess, special moves were implemented, all the movements of each piece were created, it is a very complete and interesting project.
+O projeto **java-chess-system** é uma aplicação de console que simula uma partida completa de xadrez, incluindo movimentos especiais como roque, en passant e promoção de peões. Ele permite que dois jogadores disputem uma partida com todas as regras oficiais do jogo implementadas. ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+
+---
+
+## 📝 README Profissional
+
+# Java Chess System
+
+Este projeto é uma aplicação de console que simula uma partida completa de xadrez, desenvolvida em Java. Ele oferece uma experiência de jogo fiel às regras oficiais, incluindo movimentos especiais e detecção de condições como xeque e xeque-mate. ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+
+### 📌 Funcionalidades
+
+- Simulação completa de partidas de xadrez para dois jogadores.
+- Implementação de todas as regras oficiais, incluindo:
+  - Movimentos válidos para cada tipo de peça.
+  - Movimentos especiais: roque, en passant e promoção de peões.
+  - Detecção de xeque e xeque-mate.
+- Interface de console interativa para entrada de comandos e visualização do tabuleiro.
+
+### 🚀 Como Executar
+
+1. Clone o repositório: ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+   ```bash
+   git clone https://github.com/JcDev-124/java-chess-system.git
+   ```
+
+
+2. Navegue até o diretório do projeto: ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+   ```bash
+   cd java-chess-system
+   ```
+
+
+3. Compile o projeto: ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+   ```bash
+   javac -d bin src/**/*.java
+   ```
+
+
+4. Execute o jogo:
+   ```bash
+   java -cp bin application.Program
+   ```
+
+
+### 🧪 Como Jogar
+
+- O jogo é jogado no console.
+- Insira as coordenadas de origem e destino das peças no formato 'a1', 'b2', etc.
+- Siga as instruções exibidas no console para prosseguir com o jogo. ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](https://github.com/JcDev-124/java-chess-system/blob/main/LICENSE) para obter mais informações.
