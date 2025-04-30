@@ -1,4 +1,4 @@
-O projeto **java-chess-system** é uma aplicação de console que simula uma partida completa de xadrez, incluindo movimentos especiais como roque, en passant e promoção de peões. Ele permite que dois jogadores disputem uma partida com todas as regras oficiais do jogo implementadas. ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+O projeto **java-chess-system** é uma aplicação de console que simula uma partida completa de xadrez, incluindo movimentos especiais como roque, en passant e promoção de peões. Ele permite que dois jogadores disputem uma partida com todas as regras oficiais do jogo implementadas. 
 
 ---
 
@@ -6,7 +6,7 @@ O projeto **java-chess-system** é uma aplicação de console que simula uma par
 
 # Java Chess System
 
-Este projeto é uma aplicação de console que simula uma partida completa de xadrez, desenvolvida em Java. Ele oferece uma experiência de jogo fiel às regras oficiais, incluindo movimentos especiais e detecção de condições como xeque e xeque-mate. ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+Este projeto é uma aplicação de console que simula uma partida completa de xadrez, desenvolvida em Java. Ele oferece uma experiência de jogo fiel às regras oficiais, incluindo movimentos especiais e detecção de condições como xeque e xeque-mate.
 
 ### 📌 Funcionalidades
 
@@ -19,7 +19,7 @@ Este projeto é uma aplicação de console que simula uma partida completa de xa
 
 ### 🚀 Como Executar
 
-1. Clone o repositório: ([GitHub - giovanni683/chess-system-java](https://github.com/giovanni683/chess-system-java?utm_source=chatgpt.com))
+1. Clone o repositório: 
    ```bash
    git clone https://github.com/JcDev-124/java-chess-system.git
    ```
