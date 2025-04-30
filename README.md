@@ -2,7 +2,7 @@ O projeto **java-chess-system** é uma aplicação de console que simula uma par
 
 ---
 
-## 📝 README Profissional
+## 📝
 
 # Java Chess System
 
